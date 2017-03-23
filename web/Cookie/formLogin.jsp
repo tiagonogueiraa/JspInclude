@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Login</h1>
-        <p><form action="processaLogin.jsp" method="POST">
+        <p><form action="ProcessaLoginSessao.jsp" method="POST">
             Usuário:  <input type="text" name="usuario" value="" size="30" /><br>
           Senha: <input type="password" name="senha" value="" />
           
